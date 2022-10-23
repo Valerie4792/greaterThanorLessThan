@@ -1,0 +1,15 @@
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/GreaterthanLessThan/greaterThanorLessThan/bin/Debug/net6.0/greaterThanorLessThan
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/GreaterthanLessThan/greaterThanorLessThan/bin/Debug/net6.0/greaterThanorLessThan.deps.json
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/GreaterthanLessThan/greaterThanorLessThan/bin/Debug/net6.0/greaterThanorLessThan.runtimeconfig.json
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/GreaterthanLessThan/greaterThanorLessThan/bin/Debug/net6.0/greaterThanorLessThan.dll
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/GreaterthanLessThan/greaterThanorLessThan/bin/Debug/net6.0/greaterThanorLessThan.pdb
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/GreaterthanLessThan/greaterThanorLessThan/obj/Debug/net6.0/greaterThanorLessThan.csproj.AssemblyReference.cache
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/GreaterthanLessThan/greaterThanorLessThan/obj/Debug/net6.0/greaterThanorLessThan.GeneratedMSBuildEditorConfig.editorconfig
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/GreaterthanLessThan/greaterThanorLessThan/obj/Debug/net6.0/greaterThanorLessThan.AssemblyInfoInputs.cache
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/GreaterthanLessThan/greaterThanorLessThan/obj/Debug/net6.0/greaterThanorLessThan.AssemblyInfo.cs
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/GreaterthanLessThan/greaterThanorLessThan/obj/Debug/net6.0/greaterThanorLessThan.csproj.CoreCompileInputs.cache
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/GreaterthanLessThan/greaterThanorLessThan/obj/Debug/net6.0/greaterThanorLessThan.dll
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/GreaterthanLessThan/greaterThanorLessThan/obj/Debug/net6.0/refint/greaterThanorLessThan.dll
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/GreaterthanLessThan/greaterThanorLessThan/obj/Debug/net6.0/greaterThanorLessThan.pdb
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/GreaterthanLessThan/greaterThanorLessThan/obj/Debug/net6.0/greaterThanorLessThan.genruntimeconfig.cache
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/GreaterthanLessThan/greaterThanorLessThan/obj/Debug/net6.0/ref/greaterThanorLessThan.dll
