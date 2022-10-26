@@ -1,8 +1,8 @@
 ﻿//Valerie Aguilar
 //October 22, 2022
 //------------------Mini Challenge #4: Greater Than or Less Than---------------------//
-//Peer Reviewed By:
-//comment: 
+//Peer Reviewed By: Liz
+//comment: looks good; could not break it. Good job!
 
 bool playAgain = true;
 bool validNum1 = false;

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/GreaterthanLessThan/greaterThanorLessThan/greaterThanorLessThan.csproj": {}
+    "C:\\Users\\lizg1\\ValRepo\\greaterThanorLessThan\\greaterThanorLessThan.csproj": {}
   },
   "projects": {
-    "/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/GreaterthanLessThan/greaterThanorLessThan/greaterThanorLessThan.csproj": {
+    "C:\\Users\\lizg1\\ValRepo\\greaterThanorLessThan\\greaterThanorLessThan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/GreaterthanLessThan/greaterThanorLessThan/greaterThanorLessThan.csproj",
+        "projectUniqueName": "C:\\Users\\lizg1\\ValRepo\\greaterThanorLessThan\\greaterThanorLessThan.csproj",
         "projectName": "greaterThanorLessThan",
-        "projectPath": "/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/GreaterthanLessThan/greaterThanorLessThan/greaterThanorLessThan.csproj",
-        "packagesPath": "/Users/val/.nuget/packages/",
-        "outputPath": "/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/GreaterthanLessThan/greaterThanorLessThan/obj/",
+        "projectPath": "C:\\Users\\lizg1\\ValRepo\\greaterThanorLessThan\\greaterThanorLessThan.csproj",
+        "packagesPath": "C:\\Users\\lizg1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lizg1\\ValRepo\\greaterThanorLessThan\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/val/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\lizg1\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
